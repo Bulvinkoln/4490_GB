@@ -1,4 +1,4 @@
-# My contribution to thr project
+# My contribution to the project
 ## Simple as I am
 ### Chamomile is a flower
 You can use it for divination
