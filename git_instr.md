@@ -22,6 +22,8 @@ cd git_inst
 * to commit changes to project use command *git commit -m "comment - what did you do"*
 * to know about your files and their status you can use command *git status* 
 
+#### Of course you need to save file before you add it to project!
+
 ## Github
 #### I suppose that you have a github-account
 1. To make a copy of smb project in your acc, go to this project, find button Fork and push it. You'll get copy of the project in your acc
@@ -29,4 +31,5 @@ cd git_inst
 3. Go to your working directory and in terminal print *git clone ...* where ... is your copied link
 4. In terminal print cd and the name of the project
 5. You can use the project as local project
-6. If you or smbd else edit your project
+6. If you or smbd else edit your project on github, you can get these changes with the command *git pull*
+7. When you want to send your changes from local project to github, you need to commit it to local project and after that print *git push* and copy your project to github.
